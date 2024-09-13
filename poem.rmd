@@ -32,6 +32,13 @@ And the mome raths outgrabe.
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
 
+“Beware the Jabberwock, my son!
+
+The jaws that bite, the claws that catch!
+
+Beware the Jubjub bird, and shun
+
+The frumious Bandersnatch!”
 
 
 ## Third Verse
